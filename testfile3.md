@@ -1,8 +1,7 @@
 This file was created for git practice.
 Brian Silverstein  Saturday June 24, 2017
 
-Version 1: 6:50 a.m.
-pass
+Third test file
 
-Version 2: 7:34 a.m.
-on branch 1
+Version 1: 8:42 a.m.
+pass
